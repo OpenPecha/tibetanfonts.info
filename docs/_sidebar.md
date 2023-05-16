@@ -1,16 +1,16 @@
 
-- [Home](index.md)
+- [Home](index.html)
 
-- Development
-  - [Developers' workflow](dev/developers-workflow.md)
-  - [Coding guidelines](dev/coding-guidelines.md)
-  - [About RFWs](dev/rfw-about.md)
-  - [About RFCs](dev/rfc-about.md) 
-  - [Naming repos](dev/naming-repos.md)
-  - [Adding docs to repos](dev/docs.md)
+- དབུ་མེད།
+  - [ཚུགས་རིང་།](dev/developers-workflow.md)
+  - [ཚུགས་ཐུང་།](dev/coding-guidelines.md)
+  - [ཚུགས་མ་འཁྱུག](dev/rfw-about.md)
+  - [འཁྱུག](dev/rfc-about.md) 
+  - [འབྲུ་ཚ།](dev/naming-repos.md)
+  - [གསེག་ཆེན།](dev/docs.md)
   - [Frontend - Using Flowbite](dev/flowbite-figma.md)
 
-- Organization & protocols
+- དབུ་ཅན།
   - [Roles and responsibilities](org/roles-responsibilities.md)
   - [Resource allocation](org/resource-allocation.md)
   - [Observability](org/observability.md)
