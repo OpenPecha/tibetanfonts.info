@@ -1,5 +1,5 @@
 
-- [Home](README.md)
+- [Home](index.md)
 
 - Development
   - [Developers' workflow](dev/developers-workflow.md)
