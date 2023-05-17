@@ -1,7 +1,7 @@
 
 - [📷 OCR](index.html)
 
-- དབུ་མེད།
+- 🖋️ དབུ་མེད།
   - [ཚུགས་རིང་།](dev/developers-workflow.md)
   https://tinyurl.com/bdcw5ab5
  
@@ -18,7 +18,7 @@
   - [ཁམས་བྲིས།](dev/docs.md)
 
 
-- དབུ་ཅན།
+- 🖊️ དབུ་ཅན།
   - [](org/roles-responsibilities.md)
   - [Resource allocation](org/resource-allocation.md)
   - [Observability](org/observability.md)
