@@ -1,5 +1,5 @@
 
-- [OCR](index.html)
+- [📷 OCR](index.html)
 
 - དབུ་མེད།
   - [ཚུགས་རིང་།](dev/developers-workflow.md)
