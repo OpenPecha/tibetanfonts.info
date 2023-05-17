@@ -1,5 +1,5 @@
 
-- [Home](index.html)
+- [OCR](index.html)
 
 - དབུ་མེད།
   - [ཚུགས་རིང་།](dev/developers-workflow.md)
@@ -11,13 +11,12 @@
  
   - [འཁྱུག](dev/rfc-about.md) 
  
-  - [འབྲུ་ཚ།](dev/naming-repos.md)
+  - [འབྲུ་ཚ།](dev/naming-repos.md) 
 
   - [ཚུགས་ཆུང་།](dev/docs.md)
  
   - [ཁམས་བྲིས།](dev/docs.md)
 
-  - [མཛེས་རྩལ།](dev/flowbite-figma.md)
 
 - དབུ་ཅན།
   - [](org/roles-responsibilities.md)
